@@ -1,0 +1,34 @@
+.jumbotron {
+	margin-top: 60px;
+}
+
+.custompadtop {
+	padding-top: 70px;
+}
+.custommarginbottom {
+	margin-bottom: 70px;
+}
+.red {
+	color: red;
+}
+.no h3{
+	margin: 0px;
+	border:0px;
+	padding: 0px;
+}
+p {
+	font-family: 'PT Sans Caption', sans-serif !important;
+}
+
+h1 {
+	font-family: 'Fjord One', serif !important;
+}
+h2 {
+	font-family: 'Fjord One', serif !important;
+}
+h3 {
+	font-family: 'Fjord One', serif !important;
+}
+a {
+	font-family: 'Varela Round', sans-serif !important;
+}
