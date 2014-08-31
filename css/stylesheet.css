@@ -32,3 +32,6 @@ h3 {
 a {
 	font-family: 'Varela Round', sans-serif !important;
 }
+.caption{
+	min-height: 224px;
+}
